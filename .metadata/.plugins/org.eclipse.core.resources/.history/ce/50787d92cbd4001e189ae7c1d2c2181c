@@ -1,0 +1,27 @@
+package Day5;
+
+public class WhileLoopDemo {
+
+	public static void main(String[] args) 
+	{
+		/*
+	//Example1
+		int i=1; //initialization
+		
+		while(i<=10)  //condition
+		{
+			System.out.println(i);
+			i++;   //incrementation
+		}
+	*/	
+		//Example2
+		int i;
+		while(i<10)
+		{
+			System.out.println("Prayma Bishshash");
+			i++;
+		}
+
+	}
+
+}

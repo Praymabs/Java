@@ -1,0 +1,17 @@
+package Day3;
+
+public class TernaryOperator {
+
+	public static void main(String[] args) 
+	{
+		//variable = exp ? result: result2;
+		
+		//example-1
+		int a =200, b=100;
+		
+		int x=(a>b)? a:b;
+		System.out.println(x);
+
+	}
+
+}
